@@ -5,7 +5,7 @@ description: This section describes how to customize the appearance of Syncfusio
 platform: wpf
 control: TreeViewAdv
 documentation: ug
----
+---  
 # Appearance in WPF TreeView (TreeViewAdv)
 
 This section deals with the appearance of TreeViewAdv control and contains the following topics:
